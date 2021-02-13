@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SaidaDeDados_18/1.0.0": {
+        "runtime": {
+          "SaidaDeDados_18.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SaidaDeDados_18/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

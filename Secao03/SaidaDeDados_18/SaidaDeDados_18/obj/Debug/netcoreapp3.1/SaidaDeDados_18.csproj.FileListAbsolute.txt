@@ -1,0 +1,13 @@
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\SaidaDeDados_18\SaidaDeDados_18\bin\Debug\netcoreapp3.1\SaidaDeDados_18.exe
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\SaidaDeDados_18\SaidaDeDados_18\bin\Debug\netcoreapp3.1\SaidaDeDados_18.deps.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\SaidaDeDados_18\SaidaDeDados_18\bin\Debug\netcoreapp3.1\SaidaDeDados_18.runtimeconfig.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\SaidaDeDados_18\SaidaDeDados_18\bin\Debug\netcoreapp3.1\SaidaDeDados_18.runtimeconfig.dev.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\SaidaDeDados_18\SaidaDeDados_18\bin\Debug\netcoreapp3.1\SaidaDeDados_18.dll
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\SaidaDeDados_18\SaidaDeDados_18\bin\Debug\netcoreapp3.1\SaidaDeDados_18.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\SaidaDeDados_18\SaidaDeDados_18\obj\Debug\netcoreapp3.1\SaidaDeDados_18.csprojAssemblyReference.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\SaidaDeDados_18\SaidaDeDados_18\obj\Debug\netcoreapp3.1\SaidaDeDados_18.AssemblyInfoInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\SaidaDeDados_18\SaidaDeDados_18\obj\Debug\netcoreapp3.1\SaidaDeDados_18.AssemblyInfo.cs
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\SaidaDeDados_18\SaidaDeDados_18\obj\Debug\netcoreapp3.1\SaidaDeDados_18.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\SaidaDeDados_18\SaidaDeDados_18\obj\Debug\netcoreapp3.1\SaidaDeDados_18.dll
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\SaidaDeDados_18\SaidaDeDados_18\obj\Debug\netcoreapp3.1\SaidaDeDados_18.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\SaidaDeDados_18\SaidaDeDados_18\obj\Debug\netcoreapp3.1\SaidaDeDados_18.genruntimeconfig.cache
