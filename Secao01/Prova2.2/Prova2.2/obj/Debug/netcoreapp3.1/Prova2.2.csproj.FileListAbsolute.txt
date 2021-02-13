@@ -1,0 +1,13 @@
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Prova2.2\Prova2.2\bin\Debug\netcoreapp3.1\Prova2.2.exe
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Prova2.2\Prova2.2\bin\Debug\netcoreapp3.1\Prova2.2.deps.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Prova2.2\Prova2.2\bin\Debug\netcoreapp3.1\Prova2.2.runtimeconfig.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Prova2.2\Prova2.2\bin\Debug\netcoreapp3.1\Prova2.2.runtimeconfig.dev.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Prova2.2\Prova2.2\bin\Debug\netcoreapp3.1\Prova2.2.dll
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Prova2.2\Prova2.2\bin\Debug\netcoreapp3.1\Prova2.2.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Prova2.2\Prova2.2\obj\Debug\netcoreapp3.1\Prova2.2.csprojAssemblyReference.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Prova2.2\Prova2.2\obj\Debug\netcoreapp3.1\Prova2.2.AssemblyInfoInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Prova2.2\Prova2.2\obj\Debug\netcoreapp3.1\Prova2.2.AssemblyInfo.cs
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Prova2.2\Prova2.2\obj\Debug\netcoreapp3.1\Prova2.2.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Prova2.2\Prova2.2\obj\Debug\netcoreapp3.1\Prova2.2.dll
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Prova2.2\Prova2.2\obj\Debug\netcoreapp3.1\Prova2.2.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Prova2.2\Prova2.2\obj\Debug\netcoreapp3.1\Prova2.2.genruntimeconfig.cache
