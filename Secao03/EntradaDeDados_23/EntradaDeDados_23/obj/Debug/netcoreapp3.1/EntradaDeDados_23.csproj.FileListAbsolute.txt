@@ -1,0 +1,13 @@
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\EntradaDeDados_23\EntradaDeDados_23\bin\Debug\netcoreapp3.1\EntradaDeDados_23.exe
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\EntradaDeDados_23\EntradaDeDados_23\bin\Debug\netcoreapp3.1\EntradaDeDados_23.deps.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\EntradaDeDados_23\EntradaDeDados_23\bin\Debug\netcoreapp3.1\EntradaDeDados_23.runtimeconfig.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\EntradaDeDados_23\EntradaDeDados_23\bin\Debug\netcoreapp3.1\EntradaDeDados_23.runtimeconfig.dev.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\EntradaDeDados_23\EntradaDeDados_23\bin\Debug\netcoreapp3.1\EntradaDeDados_23.dll
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\EntradaDeDados_23\EntradaDeDados_23\bin\Debug\netcoreapp3.1\EntradaDeDados_23.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\EntradaDeDados_23\EntradaDeDados_23\obj\Debug\netcoreapp3.1\EntradaDeDados_23.csprojAssemblyReference.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\EntradaDeDados_23\EntradaDeDados_23\obj\Debug\netcoreapp3.1\EntradaDeDados_23.AssemblyInfoInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\EntradaDeDados_23\EntradaDeDados_23\obj\Debug\netcoreapp3.1\EntradaDeDados_23.AssemblyInfo.cs
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\EntradaDeDados_23\EntradaDeDados_23\obj\Debug\netcoreapp3.1\EntradaDeDados_23.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\EntradaDeDados_23\EntradaDeDados_23\obj\Debug\netcoreapp3.1\EntradaDeDados_23.dll
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\EntradaDeDados_23\EntradaDeDados_23\obj\Debug\netcoreapp3.1\EntradaDeDados_23.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\repos\Secao03\EntradaDeDados_23\EntradaDeDados_23\obj\Debug\netcoreapp3.1\EntradaDeDados_23.genruntimeconfig.cache
