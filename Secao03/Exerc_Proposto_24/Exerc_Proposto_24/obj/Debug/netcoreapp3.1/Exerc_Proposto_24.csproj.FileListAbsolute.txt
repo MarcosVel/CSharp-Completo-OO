@@ -1,0 +1,13 @@
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao03\Exerc_Proposto_24\Exerc_Proposto_24\bin\Debug\netcoreapp3.1\Exerc_Proposto_24.exe
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao03\Exerc_Proposto_24\Exerc_Proposto_24\bin\Debug\netcoreapp3.1\Exerc_Proposto_24.deps.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao03\Exerc_Proposto_24\Exerc_Proposto_24\bin\Debug\netcoreapp3.1\Exerc_Proposto_24.runtimeconfig.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao03\Exerc_Proposto_24\Exerc_Proposto_24\bin\Debug\netcoreapp3.1\Exerc_Proposto_24.runtimeconfig.dev.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao03\Exerc_Proposto_24\Exerc_Proposto_24\bin\Debug\netcoreapp3.1\Exerc_Proposto_24.dll
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao03\Exerc_Proposto_24\Exerc_Proposto_24\bin\Debug\netcoreapp3.1\Exerc_Proposto_24.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao03\Exerc_Proposto_24\Exerc_Proposto_24\obj\Debug\netcoreapp3.1\Exerc_Proposto_24.csprojAssemblyReference.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao03\Exerc_Proposto_24\Exerc_Proposto_24\obj\Debug\netcoreapp3.1\Exerc_Proposto_24.AssemblyInfoInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao03\Exerc_Proposto_24\Exerc_Proposto_24\obj\Debug\netcoreapp3.1\Exerc_Proposto_24.AssemblyInfo.cs
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao03\Exerc_Proposto_24\Exerc_Proposto_24\obj\Debug\netcoreapp3.1\Exerc_Proposto_24.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao03\Exerc_Proposto_24\Exerc_Proposto_24\obj\Debug\netcoreapp3.1\Exerc_Proposto_24.dll
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao03\Exerc_Proposto_24\Exerc_Proposto_24\obj\Debug\netcoreapp3.1\Exerc_Proposto_24.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao03\Exerc_Proposto_24\Exerc_Proposto_24\obj\Debug\netcoreapp3.1\Exerc_Proposto_24.genruntimeconfig.cache
