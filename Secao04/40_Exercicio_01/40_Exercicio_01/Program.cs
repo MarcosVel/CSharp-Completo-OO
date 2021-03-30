@@ -3,10 +3,11 @@
 namespace _40_Exercicio_01 {
     class Program {
         static void Main(string[] args) {
-            Pessoa a, b;
-
+            //Modo 1
+            Pessoa a;
             a = new Pessoa();
-            b = new Pessoa();
+            // Modo 2
+            Pessoa b = new Pessoa();
 
             Console.WriteLine("Dados da primeira pessoa:");
             Console.Write("Nome: ");
@@ -21,7 +22,7 @@ namespace _40_Exercicio_01 {
             b.idade = int.Parse(Console.ReadLine());
 
             if (a.idade > b.idade) {
-                Console.WriteLine("Pessoa mais velha: {0}", a.nome);
+                Console.WriteLine("Pessoa mais velha: " + a.nome);
             } else {
                 Console.WriteLine("Pessoa mais velha: {0}", b.nome);
             }

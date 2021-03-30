@@ -1,0 +1,13 @@
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\40_Exercicio_02\40_Exercicio_02\bin\Debug\netcoreapp3.1\40_Exercicio_02.exe
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\40_Exercicio_02\40_Exercicio_02\bin\Debug\netcoreapp3.1\40_Exercicio_02.deps.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\40_Exercicio_02\40_Exercicio_02\bin\Debug\netcoreapp3.1\40_Exercicio_02.runtimeconfig.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\40_Exercicio_02\40_Exercicio_02\bin\Debug\netcoreapp3.1\40_Exercicio_02.runtimeconfig.dev.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\40_Exercicio_02\40_Exercicio_02\bin\Debug\netcoreapp3.1\40_Exercicio_02.dll
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\40_Exercicio_02\40_Exercicio_02\bin\Debug\netcoreapp3.1\40_Exercicio_02.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\40_Exercicio_02\40_Exercicio_02\obj\Debug\netcoreapp3.1\40_Exercicio_02.csprojAssemblyReference.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\40_Exercicio_02\40_Exercicio_02\obj\Debug\netcoreapp3.1\40_Exercicio_02.AssemblyInfoInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\40_Exercicio_02\40_Exercicio_02\obj\Debug\netcoreapp3.1\40_Exercicio_02.AssemblyInfo.cs
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\40_Exercicio_02\40_Exercicio_02\obj\Debug\netcoreapp3.1\40_Exercicio_02.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\40_Exercicio_02\40_Exercicio_02\obj\Debug\netcoreapp3.1\40_Exercicio_02.dll
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\40_Exercicio_02\40_Exercicio_02\obj\Debug\netcoreapp3.1\40_Exercicio_02.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\40_Exercicio_02\40_Exercicio_02\obj\Debug\netcoreapp3.1\40_Exercicio_02.genruntimeconfig.cache
