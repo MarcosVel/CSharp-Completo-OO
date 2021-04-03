@@ -4,24 +4,24 @@ using System.Text;
 
 namespace _42_Exercicio_Exemplo {
     class Produto {
-        public string nome;
-        public double preco;
-        public int quantidade;
-        public int attQtd;
+        public string Nome;
+        public double Preco;
+        public int Quantidade;
+        public int AttQtd;
 
         // Adicionar ao estoque
         public double AdicionarProdutos() {
-            return quantidade += attQtd;
+            return Quantidade += AttQtd;
         }
 
         // Remover do estoque
         public double RemoverProdutos() {
-            return quantidade -= attQtd;
+            return Quantidade -= AttQtd;
         }
 
         // Total
         public double Total() {
-            return quantidade * preco;
+            return Quantidade * Preco;
         }
     }
 }
