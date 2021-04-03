@@ -29,7 +29,20 @@ namespace _42_Exercicio_Exemplo {
             Console.WriteLine();
 
             // quantidade atualizada
-            double qtdAtualizada = produto.AddEstoque();
+            double qtdAtualizada = produto.AdicionarProdutos();
+            total = produto.Total();
+            Console.WriteLine($"Dados atualizados: {produto.nome}, $ {produto.preco:F2}, {qtdAtualizada} unidades, Total: {total:F2}");
+
+            Console.WriteLine();
+
+            // leitura da quantidade a retirar
+            Console.Write("Digite o número de produtos a ser removido do estoque: ");
+            produto.attQtd = int.Parse(Console.ReadLine());
+
+            Console.WriteLine();
+
+            // quantidade atualizada
+            qtdAtualizada = produto.RemoverProdutos();
             total = produto.Total();
             Console.WriteLine($"Dados atualizados: {produto.nome}, $ {produto.preco:F2}, {qtdAtualizada} unidades, Total: {total:F2}");
 

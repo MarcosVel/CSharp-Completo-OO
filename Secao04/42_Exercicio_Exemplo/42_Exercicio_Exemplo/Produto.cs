@@ -10,8 +10,13 @@ namespace _42_Exercicio_Exemplo {
         public int attQtd;
 
         // Adicionar ao estoque
-        public double AddEstoque() {
+        public double AdicionarProdutos() {
             return quantidade += attQtd;
+        }
+
+        // Remover do estoque
+        public double RemoverProdutos() {
+            return quantidade -= attQtd;
         }
 
         // Total
