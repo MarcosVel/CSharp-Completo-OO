@@ -1,0 +1,13 @@
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\48_Exercicio_Proposto\48_Exercicio_Proposto\obj\Debug\netcoreapp3.1\48_Exercicio_Proposto.csprojAssemblyReference.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\48_Exercicio_Proposto\48_Exercicio_Proposto\obj\Debug\netcoreapp3.1\48_Exercicio_Proposto.AssemblyInfoInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\48_Exercicio_Proposto\48_Exercicio_Proposto\obj\Debug\netcoreapp3.1\48_Exercicio_Proposto.AssemblyInfo.cs
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\48_Exercicio_Proposto\48_Exercicio_Proposto\obj\Debug\netcoreapp3.1\48_Exercicio_Proposto.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\48_Exercicio_Proposto\48_Exercicio_Proposto\bin\Debug\netcoreapp3.1\48_Exercicio_Proposto.exe
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\48_Exercicio_Proposto\48_Exercicio_Proposto\bin\Debug\netcoreapp3.1\48_Exercicio_Proposto.deps.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\48_Exercicio_Proposto\48_Exercicio_Proposto\bin\Debug\netcoreapp3.1\48_Exercicio_Proposto.runtimeconfig.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\48_Exercicio_Proposto\48_Exercicio_Proposto\bin\Debug\netcoreapp3.1\48_Exercicio_Proposto.runtimeconfig.dev.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\48_Exercicio_Proposto\48_Exercicio_Proposto\bin\Debug\netcoreapp3.1\48_Exercicio_Proposto.dll
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\48_Exercicio_Proposto\48_Exercicio_Proposto\bin\Debug\netcoreapp3.1\48_Exercicio_Proposto.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\48_Exercicio_Proposto\48_Exercicio_Proposto\obj\Debug\netcoreapp3.1\48_Exercicio_Proposto.dll
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\48_Exercicio_Proposto\48_Exercicio_Proposto\obj\Debug\netcoreapp3.1\48_Exercicio_Proposto.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\48_Exercicio_Proposto\48_Exercicio_Proposto\obj\Debug\netcoreapp3.1\48_Exercicio_Proposto.genruntimeconfig.cache
