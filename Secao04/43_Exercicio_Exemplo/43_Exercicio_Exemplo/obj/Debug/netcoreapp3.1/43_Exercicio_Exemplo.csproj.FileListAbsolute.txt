@@ -1,0 +1,13 @@
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\43_Exercicio_Exemplo\43_Exercicio_Exemplo\bin\Debug\netcoreapp3.1\43_Exercicio_Exemplo.exe
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\43_Exercicio_Exemplo\43_Exercicio_Exemplo\bin\Debug\netcoreapp3.1\43_Exercicio_Exemplo.deps.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\43_Exercicio_Exemplo\43_Exercicio_Exemplo\bin\Debug\netcoreapp3.1\43_Exercicio_Exemplo.runtimeconfig.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\43_Exercicio_Exemplo\43_Exercicio_Exemplo\bin\Debug\netcoreapp3.1\43_Exercicio_Exemplo.runtimeconfig.dev.json
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\43_Exercicio_Exemplo\43_Exercicio_Exemplo\bin\Debug\netcoreapp3.1\43_Exercicio_Exemplo.dll
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\43_Exercicio_Exemplo\43_Exercicio_Exemplo\bin\Debug\netcoreapp3.1\43_Exercicio_Exemplo.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\43_Exercicio_Exemplo\43_Exercicio_Exemplo\obj\Debug\netcoreapp3.1\43_Exercicio_Exemplo.csprojAssemblyReference.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\43_Exercicio_Exemplo\43_Exercicio_Exemplo\obj\Debug\netcoreapp3.1\43_Exercicio_Exemplo.AssemblyInfoInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\43_Exercicio_Exemplo\43_Exercicio_Exemplo\obj\Debug\netcoreapp3.1\43_Exercicio_Exemplo.AssemblyInfo.cs
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\43_Exercicio_Exemplo\43_Exercicio_Exemplo\obj\Debug\netcoreapp3.1\43_Exercicio_Exemplo.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\43_Exercicio_Exemplo\43_Exercicio_Exemplo\obj\Debug\netcoreapp3.1\43_Exercicio_Exemplo.dll
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\43_Exercicio_Exemplo\43_Exercicio_Exemplo\obj\Debug\netcoreapp3.1\43_Exercicio_Exemplo.pdb
+E:\Users\Usuario\Desktop\Marquin\C#\C# CompletoOO\CSharp-Completo-OO\Secao04\43_Exercicio_Exemplo\43_Exercicio_Exemplo\obj\Debug\netcoreapp3.1\43_Exercicio_Exemplo.genruntimeconfig.cache
